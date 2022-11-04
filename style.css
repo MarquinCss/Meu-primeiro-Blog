@@ -1,0 +1,56 @@
+
+body{
+}
+.cab {
+	
+font-family:Apple Chancery, cursive;
+font-size:25px;
+  display: flex ;
+	gap: 20px;
+font-family: 'Righteous', cursive;
+font-weight:300;
+ font-size: 18px; }
+ 
+.cab-img{
+	height:100px;
+}
+.conte-titulo{ font-family:Apple Chancery, cursive;
+font-size:25px;}
+.pag{
+	font-family: 'Righteous', cursive;
+font-size:26px}
+.subti{font-family:Apple Chancery, cursive;
+font-size:30px;}
+.lista{
+	font-family: 'Righteous', cursive;
+	
+	
+}
+.cab-titulo2 {
+font-family: 'Righteous', cursive;}
+
+.list{	font-family: 'Righteous', cursive;
+
+}
+
+
+
+.conte-principal-escrito-subtitulo-botao:hover{
+background-color:pink;}
+
+.conte-principal-escrito-subtitulo-botao {
+	background-color:#B004F2 ;
+	width: 180px;
+	height:60px;
+	font-family:'Righteous', cursive;
+	box-shadow: 4px 5px 4px black;
+border-radius:40px; }
+
+.tit{font-family: 'Righteous', cursive;}
+	
+
+.oi{ display:flex;
+justify; font-family: 'Righteous', cursive;}
+}
+.tchau {
+	text-align:center;
